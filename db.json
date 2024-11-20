@@ -1,0 +1,84 @@
+{
+  "allVideos": [
+    {
+      "caption": "Angular",
+      "imgUrl": "https://www.filepicker.io/api/file/4MQJdtZlRjucDERLLHcA",
+      "link": "https://www.youtube.com/embed/3qBXWUpoPHo?si=HtoV3vYLKAzCFiti",
+      "id": 6
+    },
+    {
+      "caption": "React",
+      "imgUrl": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png",
+      "link": "https://www.youtube.com/embed/SqcY0GlETPk?si=cUy1I6nv_maBvqfK",
+      "id": 7
+    },
+    {
+      "caption": "Node",
+      "imgUrl": "https://trungquandev.com/wp-content/uploads/2018/04/tong-quan-nodejs-trungquandev-02.jpg",
+      "link": "https://www.youtube.com/embed/ENrzD9HAZK4?si=WxvFiWedozrBWDUb",
+      "id": 8
+    },
+    {
+      "caption": "MERN",
+      "imgUrl": "https://th.bing.com/th/id/OIP.PMBiSa-JBIhSrPqckRRxyQHaEK?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/fKJVxItLiUw?si=Ty564NJk6SxPWxWm",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "music",
+      "allVideos": [
+        {
+          "caption": "Angular",
+          "imgUrl": "https://www.filepicker.io/api/file/4MQJdtZlRjucDERLLHcA",
+          "link": "https://www.youtube.com/embed/3qBXWUpoPHo?si=HtoV3vYLKAzCFiti",
+          "id": 6
+        }
+      ],
+      "id": 5
+    },
+    {
+      "categoryName": "Videos",
+      "allVideos": [
+        {
+          "caption": "React",
+          "imgUrl": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png",
+          "link": "https://www.youtube.com/embed/SqcY0GlETPk?si=cUy1I6nv_maBvqfK",
+          "id": 7
+        }
+      ],
+      "id": 7
+    },
+    {
+      "categoryName": "MERN",
+      "allVideos": [],
+      "id": 8
+    },
+    {
+      "categoryName": "Node JS",
+      "allVideos": [],
+      "id": 9
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "React",
+      "link": "https://www.youtube.com/embed/SqcY0GlETPk?si=cUy1I6nv_maBvqfK",
+      "timestamp": "11/14/24, 10:50:40 AM",
+      "id": 4
+    },
+    {
+      "caption": "Angular",
+      "link": "https://www.youtube.com/embed/3qBXWUpoPHo?si=HtoV3vYLKAzCFiti",
+      "timestamp": "11/19/24, 01:40:44 PM",
+      "id": 5
+    },
+    {
+      "caption": "Angular",
+      "link": "https://www.youtube.com/embed/3qBXWUpoPHo?si=HtoV3vYLKAzCFiti",
+      "timestamp": "11/19/24, 01:54:17 PM",
+      "id": 6
+    }
+  ]
+}
